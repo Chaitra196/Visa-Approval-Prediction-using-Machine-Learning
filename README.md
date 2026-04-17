@@ -68,8 +68,3 @@ Helps organizations to:
 - Improve decision accuracy  
 - Identify strong applicant profiles  
 
-
----
-
-## ⭐ If you like this project  
-Give it a ⭐ on GitHub!
